@@ -6,7 +6,7 @@
 
 Trata-se de um desafio do <u>Bootcamp Impulso Javascript Evolution</u> realizado pela [Digital Innovation One](https://web.dio.me/home), que propõe reconstruir a página de login do Instagram, com o objetivo de fixar os fundamentos de HTML5 e CSS3 através da aplicação de flexbox e responsividade com media.
 
-<img src="/home/daniel-psii/snap/typora/57/.config/Typora/typora-user-images/image-20220729181604899.png" alt="image-20220729181604899" style="zoom:80%;" />
+![](/home/daniel-psii/Área de Trabalho/instagram-dio.png)
 
 #### Requisitos básicos:
 
